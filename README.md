@@ -1,5 +1,12 @@
 # Unity Games in C#
 
+Unity 1.0 Projects
+
+Working Operating System:
+
+    Windows 10 Education
+    Unity Game Engine & Microsoft Visual Studio 2017
+
 Project 01 -> Number Wizards Game in Console in 2D
 
 Project 02 -> Prison Game in 2D
