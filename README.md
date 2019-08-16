@@ -1,11 +1,11 @@
 # Unity Games in C#
 
-Unity 1.0 Projects
+Unity 2018.1.1f1 Projects
 
 Working Operating System:
 
     Windows 10 Education
-    Unity Game Engine & Microsoft Visual Studio 2017
+    Unity 2018.1.1f1 (64-bit) Game Engine & Microsoft Visual Studio 2017
 
 Project 01 -> Number Wizards Game in Console in 2D
 
